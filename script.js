@@ -40,7 +40,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
 // Fill it with project data.
 const projects = [
-    { title: "Project 1", description: "Description of Project 1" },
+    { title: "Unsupervised Learning Trading Strategy", description: "Description of Project 1" },
     { title: "Project 2", description: "Description of Project 2" },
     { title: "Project 3", description: "Description of Project 3" },
     // Add more projects here
